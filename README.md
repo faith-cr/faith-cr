@@ -1,6 +1,6 @@
+### Hoi! I'm Faith 👋
 
-
-<h3 align="center">I'm a computer engineering student passionate about software development, algorithms, and machine learning.</h3>
+<h3>I'm a computer engineering student passionate about software development, algorithms, and machine learning.</h3>
 
 - 🎓 Currently studying **Computer Engineering at Chulalongkorn University, Thailand**
 
