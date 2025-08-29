@@ -20,13 +20,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;This project reads data from an SD card and displays it on a VGA monitor using the Basys3 FPGA board as a bridge, providing hands-on experience in hardware-software integration and real-time data display.
 
 #### Fly with Sigma's Database Design <br/>
-As a group of nine, the project is to designed a relational database for a flight booking web application, structuring data efficiently to manage users, flights, reservations, and payments while ensuring integrity and scalability.
+&nbsp;&nbsp;&nbsp;&nbsp;As a group of nine, the project is to designed a relational database for a flight booking web application, structuring data efficiently to manage users, flights, reservations, and payments while ensuring integrity and scalability.
 
 #### Ready Set Run! <br/>
-Developed a Java 2D side-scrolling game using object-oriented programming principles, implementing character movement, collisions, and dynamic gameplay in a modular and maintainable structure.
+&nbsp;&nbsp;&nbsp;&nbsp;Developed a Java 2D side-scrolling game using object-oriented programming principles, implementing character movement, collisions, and dynamic gameplay in a modular and maintainable structure.
 
 #### Shoot Out Show Down! <br/>
-Created my first web application, a Rock-Paper-Scissors game, adding interactive animations and effects to enhance user experience while learning web development fundamentals.
+&nbsp;&nbsp;&nbsp;&nbsp;Created my first web application, a Rock-Paper-Scissors game, adding interactive animations and effects to enhance user experience while learning web development fundamentals.
 
 ## Certification & Awards 📚
 #### 🥈 1st Runner-Up of True Cyber Safe x True Money Hackathon Thailand 2025 "Hack for a Safer Digital Life" 
