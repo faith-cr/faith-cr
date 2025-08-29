@@ -1,4 +1,4 @@
-### Hoi! I'm Faith 👋
+### Hi! I'm Faith 👋
 
 <h3>I'm a computer engineering student passionate about software development, algorithms, and machine learning.</h3>
 
